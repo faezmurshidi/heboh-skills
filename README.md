@@ -1,7 +1,7 @@
 # Heboh Agent Skills
 
 Skills percuma untuk pembantu AI anda — cara bisnes kecil dapat pelanggan dari Threads.
-Free agent skills from [Heboh](https://heboh.xyz/global?utm_source=github&utm_medium=readme&utm_campaign=heboh-skills): growing a small or home business on Threads (Meta), for any country.
+Free agent skills from [Heboh](https://heboh.xyz/ai?utm_source=github&utm_medium=readme&utm_campaign=heboh-skills): growing a small or home business on Threads (Meta), for any country.
 
 ## Pasang / Install
 
